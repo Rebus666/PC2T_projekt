@@ -1,0 +1,5 @@
+Nazev: pes
+Autor: pejsek
+Rok vydani: 444
+Vekova kategorie: PRVNI_STUPEN
+Dostupnost: Dostupna

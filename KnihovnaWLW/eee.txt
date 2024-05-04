@@ -1,0 +1,5 @@
+Nazev: eee
+Autor: pesan
+Rok vydani: 88
+Zanr: FANTASY
+Dostupnost: Dostupna
